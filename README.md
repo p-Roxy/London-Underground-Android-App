@@ -1,7 +1,7 @@
 # 210 Final Project
 London Underground Android App 
 
-Overview of work:
+Overview of work:<br>
   Used the Pattern class in the Java library to implement the BranchStringParser 
   Tested with Junit and implemented the classes in the .model file following a UML diagram 
     classes had to follow one-to-many relationships, the iterator pattern and singleton pattern
